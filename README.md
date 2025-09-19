@@ -11,7 +11,7 @@ This is a professional portfolio website scaffold generated from Vidhya's resume
 
 1. Install dependencies
 ```bash
-cd vidyha-portfolio/package
+cd vidhyas_portfolio/package
 npm install
 ```
 
